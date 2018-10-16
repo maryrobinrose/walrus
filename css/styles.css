@@ -1,5 +1,8 @@
-#walrus-showing {
+#initially-showing {
   display: none;
+}
+
+#initially-hidden {
 }
 
 .clickable {
