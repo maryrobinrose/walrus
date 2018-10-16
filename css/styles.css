@@ -1,0 +1,13 @@
+#walrus-showing {
+  display: none;
+}
+
+.clickable {
+  curser: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+  color: red;
+}
